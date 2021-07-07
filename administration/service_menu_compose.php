@@ -1,8 +1,12 @@
 <?php
 
 /**
- * Copyright (c) BoonEx Pty Limited - http://www.boonex.com/
- * CC-BY License - http://creativecommons.org/licenses/by/3.0/
+ * Copyright © MicroGenius inc, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+/**
+ * Environment initialization
  */
 
 define ('BX_SECURITY_EXCEPTIONS', true);
